@@ -1,4 +1,4 @@
-# Baitussalm Tech Park Project images
+# Baitussalm Tech Park All Project images
 
 ## Register
 ![alt text](images/register.png "register page")
